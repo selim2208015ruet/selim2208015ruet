@@ -2,18 +2,18 @@
 
 # ⚡ MD. SELIM MIAH
 
-### Mechatronics Engineering Student @ RUET
+### `Mechatronics Engineering Student @ RUET`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=760&lines=Robotics+%7C+AI+%7C+Embedded+Systems;ROS+2+%7C+Computer+Vision+%7C+Control;Building+Intelligent+Electromechanical+Systems;Always+Learning.+Always+Building." />
 
 <br>
 
 <a href="https://github.com/selim2208015ruet">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF88">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@
 
 ## 🧠 ABOUT ME
 
-I am a **Mechatronics Engineering student at Rajshahi University of Engineering & Technology (RUET)** interested in building intelligent systems by combining:
+I am a **Mechatronics Engineering student at Rajshahi University of Engineering & Technology (RUET)** focused on combining:
 
 `Robotics` • `Artificial Intelligence` • `Embedded Systems` • `Computer Vision` • `Control Systems`
 
@@ -35,31 +35,31 @@ I enjoy turning engineering concepts into **real working hardware–software sys
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark">
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
 </p>
 
 ### 🤖 Robotics & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow&theme=dark">
+<img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow&theme=dark" />
 </p>
 
 ### 🔌 Embedded Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github&theme=dark">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github&theme=dark" />
 </p>
 
 ### 🛠️ Engineering & Simulation
 
 <p>
-<img src="https://skillicons.dev/icons?i=matlab,solidworks&theme=dark">
+<img src="https://skillicons.dev/icons?i=matlab,solidworks&theme=dark" />
 </p>
 
 ### 🐧 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,vscode&theme=dark">
+<img src="https://skillicons.dev/icons?i=linux,docker,vscode&theme=dark" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ AI-Powered Robotic Systems
 
 ### 🐍 Learn-Python
 
-Python programming practice and learning repository.
+Python programming practice and learning.
 
 ### 💻 Introduction to C++
 
@@ -127,10 +127,12 @@ Hydraulic and pneumatic systems designed and simulated using FluidSIM.
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=selim2208015ruet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FFFF&text_color=C9D1D9"
+height="180"
 />
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=selim2208015ruet&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9"
+height="180"
 />
 
 </a>
@@ -158,22 +160,16 @@ src="https://streak-stats.demolab.com/?user=selim2208015ruet&theme=dark&backgrou
 <a href="https://github.com/selim2208015ruet">
 
 <img
-src="https://github.com/users/selim2208015ruet/contributions"
-alt="GitHub Contributions in the last year"
+src="https://ghchart.rshah.org/00FF88/selim2208015ruet"
+alt="Selim Miah GitHub Contributions"
 width="100%"
 />
 
 </a>
 
-<br><br>
+<br>
 
-<a href="https://github.com/selim2208015ruet">
-
-<img
-src="https://img.shields.io/badge/VIEW%20INTERACTIVE%20CONTRIBUTIONS-00FF88?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"
-/>
-
-</a>
+<sub>GitHub contribution activity • last 12 months</sub>
 
 </div>
 
@@ -215,11 +211,11 @@ BUILD  →  TEST  →  ANALYZE  →  IMPROVE  →  REPEAT
 <div align="center">
 
 <a href="https://github.com/selim2208015ruet">
-<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=0D1117">
+<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=0D1117" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117">
+<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
 </a>
 
 </div>
@@ -228,7 +224,9 @@ BUILD  →  TEST  →  ANALYZE  →  IMPROVE  →  REPEAT
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=selim2208015ruet&label=PROFILE%20VIEWS&color=00FF88&style=flat">
+<img
+src="https://komarev.com/ghpvc/?username=selim2208015ruet&label=PROFILE%20VIEWS&color=00FF88&style=flat"
+/>
 
 ### ⚡ ALWAYS BUILDING • ALWAYS LEARNING
 
