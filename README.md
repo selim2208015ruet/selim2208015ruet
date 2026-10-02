@@ -4,16 +4,17 @@
 
 ### Mechatronics Engineering Student @ RUET
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=750&lines=Robotics+%7C+AI+%7C+Embedded+Systems;ROS+2+%7C+Computer+Vision+%7C+Control;Building+Intelligent+Electromechanical+Systems;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=760&lines=Robotics+%7C+AI+%7C+Embedded+Systems;ROS+2+%7C+Computer+Vision+%7C+Control;Building+Intelligent+Electromechanical+Systems;Always+Learning.+Always+Building." />
 
-<p>
+<br>
+
 <a href="https://github.com/selim2208015ruet">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF88">
 </a>
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF">
 </a>
-</p>
 
 </div>
 
@@ -21,11 +22,11 @@
 
 ## 🧠 ABOUT ME
 
-I am a **Mechatronics Engineering student at Rajshahi University of Engineering & Technology (RUET)** focused on combining:
+I am a **Mechatronics Engineering student at Rajshahi University of Engineering & Technology (RUET)** interested in building intelligent systems by combining:
 
-`Robotics` • `Artificial Intelligence` • `Embedded Systems` • `Control Systems` • `Computer Vision`
+`Robotics` • `Artificial Intelligence` • `Embedded Systems` • `Computer Vision` • `Control Systems`
 
-I enjoy building intelligent electromechanical systems where **hardware and software work together**.
+I enjoy turning engineering concepts into **real working hardware–software systems**.
 
 ---
 
@@ -34,47 +35,47 @@ I enjoy building intelligent electromechanical systems where **hardware and soft
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark">
 </p>
 
 ### 🤖 Robotics & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow&theme=dark">
 </p>
 
 ### 🔌 Embedded Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github&theme=dark">
 </p>
 
 ### 🛠️ Engineering & Simulation
 
 <p>
-<img src="https://skillicons.dev/icons?i=matlab,solidworks&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=matlab,solidworks&theme=dark">
 </p>
 
-### 🐧 Development Environment
+### 🐧 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,vscode&theme=dark">
 </p>
 
 ---
 
 # 🤖 ENGINEERING FOCUS
 
-|      DOMAIN     | FOCUS                                             |
-| :-------------: | :------------------------------------------------ |
-|   🤖 Robotics   | Mobile Robots • Manipulation • Autonomous Systems |
-|      🧠 AI      | Machine Learning • Deep Learning • Edge AI        |
-|    👁️ Vision   | OpenCV • Object Detection • Visual Perception     |
-|  🛰️ Navigation | SLAM • Localization • Path Planning               |
-|   ⚙️ Embedded   | AVR • ESP32 • Arduino • Embedded C                |
-|   🎛️ Control   | PID • LQR • Intelligent Control                   |
-|    🚁 Drones    | Autonomous Navigation • Flight Control            |
-| 🔧 Mechatronics | Hardware–Software Integration                     |
+|      DOMAIN     | FOCUS                                               |
+| :-------------: | :-------------------------------------------------- |
+|   🤖 Robotics   | Mobile Robotics • Manipulation • Autonomous Systems |
+|      🧠 AI      | Machine Learning • Deep Learning • Edge AI          |
+|    👁️ Vision   | OpenCV • Object Detection • Visual Perception       |
+|  🛰️ Navigation | SLAM • Localization • Path Planning                 |
+|   ⚙️ Embedded   | AVR • ESP32 • Arduino • Embedded C                  |
+|   🎛️ Control   | PID • LQR • Intelligent Control                     |
+|    🚁 Drones    | Navigation • Flight Control • Autonomous Systems    |
+| 🔧 Mechatronics | Hardware–Software Integration                       |
 
 ---
 
@@ -102,19 +103,19 @@ AI-Powered Robotic Systems
 
 ### 🐍 Learn-Python
 
-Python programming practice and learning.
+Python programming practice and learning repository.
 
 ### 💻 Introduction to C++
 
 C++ programming and problem-solving practice.
 
-### 🌱 Smart Greenhouse
+### 🌱 Smart Greenhouse System
 
 Microcontroller-based greenhouse monitoring and automation.
 
 ### 💨 Hydraulic & Pneumatic Control
 
-Fluid power control systems simulated using FluidSIM.
+Hydraulic and pneumatic systems designed and simulated using FluidSIM.
 
 ---
 
@@ -157,8 +158,8 @@ src="https://streak-stats.demolab.com/?user=selim2208015ruet&theme=dark&backgrou
 <a href="https://github.com/selim2208015ruet">
 
 <img
-src="./assets/contribution-calendar.svg"
-alt="Contributions in the last year"
+src="https://github.com/users/selim2208015ruet/contributions"
+alt="GitHub Contributions in the last year"
 width="100%"
 />
 
@@ -166,10 +167,10 @@ width="100%"
 
 <br><br>
 
-<a href="https://github.com/selim2208015ruet?tab=overview">
+<a href="https://github.com/selim2208015ruet">
 
 <img
-src="https://img.shields.io/badge/OPEN%20GITHUB%20CALENDAR-00FF88?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"
+src="https://img.shields.io/badge/VIEW%20INTERACTIVE%20CONTRIBUTIONS-00FF88?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"
 />
 
 </a>
@@ -200,7 +201,7 @@ width="95%"
 <div align="center">
 
 ```text
-BUILD → TEST → ANALYZE → IMPROVE → REPEAT
+BUILD  →  TEST  →  ANALYZE  →  IMPROVE  →  REPEAT
 ```
 
 </div>
@@ -214,11 +215,11 @@ BUILD → TEST → ANALYZE → IMPROVE → REPEAT
 <div align="center">
 
 <a href="https://github.com/selim2208015ruet">
-<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=0D1117">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117">
 </a>
 
 </div>
@@ -227,7 +228,7 @@ BUILD → TEST → ANALYZE → IMPROVE → REPEAT
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=selim2208015ruet&label=PROFILE%20VIEWS&color=00FF88&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=selim2208015ruet&label=PROFILE%20VIEWS&color=00FF88&style=flat">
 
 ### ⚡ ALWAYS BUILDING • ALWAYS LEARNING
 
